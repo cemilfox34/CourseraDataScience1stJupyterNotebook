@@ -1,0 +1,1 @@
+First Jupyter Notebook assignment for the Coursera Tools for Data Science course, which is a part of the IBM Data Science Professional Certificate. There are a variety of markdown and Python code cells to show basic understanding of the concepts and capabilites.
